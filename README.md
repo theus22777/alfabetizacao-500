@@ -2,7 +2,7 @@
 
 Funil low ticket do Kit +500 Atividades de Alfabetização (pré ao 2º ano).
 
-- `pagina-vendas.html` — página de vendas (versão atual, mais direta)
+- `index.html` — página de vendas (versão atual, mais direta)
 - `site/` — cópia da página para publicação (versão anterior)
 - `app/index.html` — MVP do produto
 - `criativos/` — roteiros de vídeo e prompts de criativos
